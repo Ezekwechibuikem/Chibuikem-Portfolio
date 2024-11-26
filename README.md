@@ -8,6 +8,8 @@ Welcome to the **Next.js Creative Portfolio**! This project helps you build a vi
 
 You can see the live demo of this portfolio template [here](#) (link to live demo if available).
 
+## How the Site Looks 🖼️
+
 ## Features ✨
 
 - **Responsive Layout**: Fully responsive design that works on desktops, tablets, and mobile devices.
