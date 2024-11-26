@@ -4,10 +4,8 @@ import bg from "../../../../public/background/New-projects-bg.png"
 import ProjectList from "@/components/projects";
 import { projectsData } from "../../data";
 import RenderModel from "@/components/RenderModel";
-// import Staff from '@/components/models/Staff';
-import dynamic from "next/dynamic";
+import Staff from '@/components/models/Staff';
 
-const Staff = dynamic(() => import("@/components/models/Staff'"), {ssr: false} )
 const Home = () => {
   return (
     <div className="min-h-screen relative">
