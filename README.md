@@ -9,6 +9,11 @@ Welcome to the **Next.js Creative Portfolio**! This project helps you build a vi
 You can see the live demo of this portfolio template [here](#) (link to live demo if available).
 
 ## How the Site Looks 🖼️
+![home](https://github.com/user-attachments/assets/b4b5f346-9d1a-493f-9b64-0b92ba8b2350)
+![Contact](https://github.com/user-attachments/assets/0758ef49-7d6c-4898-89e7-ab7d0c1dc0ad)
+![About](https://github.com/user-attachments/assets/441ab72a-b517-4016-8754-561f5abb6392)
+![Project](https://github.com/user-attachments/assets/ec60a700-6f6c-42e2-89f5-b9c2aaf6d3bf)
+
 
 ## Features ✨
 
