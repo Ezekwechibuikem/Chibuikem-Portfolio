@@ -22,7 +22,7 @@
     "sonner": "^1.4.3",
     "three": "^0.162.0",
     "three-mesh-bvh": "^0.8.0"
-  },
+  }, 
   "devDependencies": {
     "@eslint/config-array": "^0.18.0",
     "@eslint/object-schema": "^2.1.4",
