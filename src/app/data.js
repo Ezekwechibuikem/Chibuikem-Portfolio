@@ -11,7 +11,7 @@ export const projectsData = [
     name: "Chibuikem Portfolio",
     description: "A personal developer portfolio showcasing my projects, technical skills, and professional journey in software development.",
     date: "2022-06-20",
-    demoLink: "https://chibuikem.vercel.app/",
+    demoLink: "https://ezekwe.vercel.app/",
   },
   {
     id: 3,
